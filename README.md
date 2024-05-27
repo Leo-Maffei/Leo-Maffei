@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Leo-Maffei;
+- 👀 I’m interested in Biology, Games and Coding;
+- 🌱 I’m currently learning C#, DB, Python, PHP;
+- 💞️ I’m looking to collaborate on Game coding, Mobile apps, mixing wild life projects with technology
+- 📫 How to reach me -> leonardomaffeirodriguez@gmail.com
+- 😄 Pronouns: He/Him
